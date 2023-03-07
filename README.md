@@ -28,6 +28,10 @@
 
 
 ## About The Project
+由聲音、新媒體藝術家 黎仲民Andio Lai 帶領同學學習不同 Software、Hardware的操作，將畫作變成電子樂器，從中學習到：
+1. 電子聲音創作平台 Ableton Learning Synths、Audacity和Arduino 軟硬件的運用
+2. 繪畫互動介面：利用導電媒體（如conductive ink），創作出觸控式畫作
+3. 結合以上技巧，創作出獨一無二的視覺＋聲音藝術作品，並探索利用導電媒體創作共融藝術的可能性。
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -22,7 +22,7 @@
     <li><a href="#lesson-2">Lesson 2</a></li>
     <li><a href="#lesson-3">Lesson 3</a></li>
     <li><a href="#review">Review</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#聯繫我們">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -113,4 +113,4 @@ if (measurement >= 400){//決定觸發起動歌曲的條件(值)
 
 ## Review
 
-## Acknowledgments
+## 聯繫我們

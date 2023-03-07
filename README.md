@@ -5,7 +5,7 @@
 <p align="center">👨‍🏫 導師: Andio Lai</p>
 
 
-<details>
+
   <summary>📖 Table of Contents</summary>
   <ol>
     <li> 
@@ -24,7 +24,7 @@
     <li><a href="#review">Review</a></li>
     <li><a href="#聯繫我們">需要幫助？聯繫我們</a></li>
   </ol>
-</details>
+
 
 ## About The Project
 🧠

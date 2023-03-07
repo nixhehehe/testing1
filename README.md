@@ -20,7 +20,7 @@
     <li><a href="#lesson-1">Lesson 1</a></li>
     <li><a href="#lesson-2">Lesson 2</a></li>
     <li><a href="#lesson-3">Lesson 3</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#review">Review</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -64,6 +64,6 @@ Arduino IDE (1.8.19) : https://www.arduino.cc/en/software
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Contact
+## Review
 
 ## Acknowledgments

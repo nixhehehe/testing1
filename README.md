@@ -17,9 +17,9 @@
         <li><a href="#knowing-the-tool-kit">Knowing the Tool Kit</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#lesson-1">Lesson 1</a></li>
+    <li><a href="#lesson-2">Lesson 2</a></li>
+    <li><a href="#lesson-3">Lesson 3</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -33,5 +33,17 @@
 
 ## Getting Started
 
+### Installation
+### Knowing the Tool Kit
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Lesson 1
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Lesson 2
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Lesson 3
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 

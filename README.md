@@ -37,12 +37,31 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Lesson 1
+在本課程中，你將學習到關於合成器（Synthesizer或Synth）的基礎知識，並使用Audacity設計自己的聲音。
+
+網絡App Web App - 合成器音樂 Synth Music -Ableton Learn Synth: https://learningsynths.ableton.com/en/playground
+
+Audacity : https://www.audacityteam.org/download/
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Lesson 2
+
+電路連接手冊 Connection Manual：[connection manual.pdf](https://github.com/nixhehehe/testing1/files/10908029/connection.manual.pdf)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Lesson 3
+基本軟件 Basic software : 
+Arduino IDE (1.8.19) : https://www.arduino.cc/en/software
+
+組裝指南 Assembly Guide：
+[revised.guide.lesson3.pdf](https://github.com/nixhehehe/testing1/files/10908037/revised.guide.lesson3.pdf)
+
+
+如何加入編碼庫 How to add library: SerialMP3：
+[library.pdf](https://github.com/nixhehehe/testing1/files/10908040/library.pdf)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact

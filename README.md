@@ -64,7 +64,7 @@ Arduino IDE (1.8.19) : https://www.arduino.cc/en/software
 [library.pdf](https://github.com/nixhehehe/testing1/files/10908040/library.pdf)
 
 ```sh
-   #include "SerialMP3Player.h"// 使用MP3版的編碼庫library
+#include "SerialMP3Player.h"// 使用MP3版的編碼庫library
 
 #include <CapacitiveSensor.h>// 使用可感應導電墨水的CAP SENSE編碼庫library
 

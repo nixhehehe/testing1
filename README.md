@@ -22,7 +22,7 @@
     <li><a href="#lesson-2">Lesson 2</a></li>
     <li><a href="#lesson-3">Lesson 3</a></li>
     <li><a href="#review">Review</a></li>
-    <li><a href="#聯繫我們">Acknowledgments</a></li>
+    <li><a href="#聯繫我們">需要幫助？聯繫我們</a></li>
   </ol>
 </details>
 

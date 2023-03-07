@@ -20,7 +20,6 @@
     <li><a href="#lesson-1">Lesson 1</a></li>
     <li><a href="#lesson-2">Lesson 2</a></li>
     <li><a href="#lesson-3">Lesson 3</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -46,4 +45,6 @@
 ## Lesson 3
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Contact
 
+## Acknowledgments

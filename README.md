@@ -1,23 +1,20 @@
 <a name="readme-top"></a>
 
-<h1 align="center">Draw Sound 電紙樂器</h1>
-<p align="center">Instructor: Andio Lai</p>
+<h1 align="center">🎵 Draw Sound 電紙樂器 🎵</h1>
+<p align="center">👨‍🏫 Instructor: Andio Lai</p>
 
 
 <details>
-  <summary>Table of Contents</summary>
+  <summary>📖 Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+    <li> 
+      <a href="#about-the-project"> About The Project</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started"> Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#knowing-the-tool-kit">Knowing the Tool Kit</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -29,6 +26,12 @@
   </ol>
 </details>
 
+
 ## About The Project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Getting Started
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+

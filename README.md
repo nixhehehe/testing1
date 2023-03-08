@@ -38,6 +38,7 @@
 ## Getting Started
 
 ### Installation
+首先我們先去Arduino官網下載Arduino IDE (建議使用Legacy IDE (1.8.X) 1.8.19版本): https://www.arduino.cc/en/software 
 ### Knowing the Tool Kit
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

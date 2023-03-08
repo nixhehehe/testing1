@@ -36,10 +36,18 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
+我們需要Software、Hardware的結合，才能完成本課程的藝術創作。
 
 ### Installation
 首先我們先去Arduino官網下載Arduino IDE (建議使用Legacy IDE (1.8.X) 1.8.19版本): https://www.arduino.cc/en/software 
+然後我們再去Audacity官網下載最新版本的Audacity: https://www.audacityteam.org/download/
+
+❓什麼是Arduino：
+
+
 ### Knowing the Tool Kit
+我們團隊準備好了創作本作品所需要的工具和電子元件，我們一起來認識一下吧！
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Lesson 1
@@ -115,3 +123,6 @@ if (measurement >= 400){//決定觸發起動歌曲的條件(值)
 ## Review
 
 ## 聯繫我們
+如果你在學習本課程中遇到問題，歡迎聯繫我們！
+
+

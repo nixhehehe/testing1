@@ -54,7 +54,7 @@ Audacity是一款跨平台的音频编辑软件，用於錄音和編輯音訊，
 ### 認識硬件包
 我們團隊準備好了創作本作品所需要的工具和電子元件，我們一起來認識一下吧！
 
-<img src="images/toolkit.jpg" alt="toolkit" width="1920" height="1000">
+<img src="images/toolkit.jpg" alt="toolkit" >
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -6,16 +6,16 @@
 
 
 
-  <summary>📖 Table of Contents</summary>
+  <summary>📖 目錄</summary>
   <ol>
     <li> 
-      <a href="#about-the-project"> About The Project</a>
+      <a href="#課程介紹"> 課程介紹</a>
     </li>
     <li>
       <a href="#getting-started"> Getting Started</a>
       <ul>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#knowing-the-tool-kit">Knowing the Tool Kit</a></li>
+        <li><a href="#下載軟件">下載軟件</a></li>
+        <li><a href="#認識硬件包">認識硬件包</a></li>
       </ul>
     </li>
     <li><a href="#lesson-1">Lesson 1</a></li>
@@ -26,7 +26,7 @@
   </ol>
 
 
-## About The Project
+## 課程介紹
 🧠
 由聲音、新媒體藝術家 黎仲民Andio Lai 帶領同學學習不同 Software、Hardware的操作，將畫作變成電子樂器，從中學習到：
 1. 電子聲音創作平台 Ableton Learning Synths、Audacity和Arduino 軟硬件的運用
@@ -36,16 +36,22 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
-我們需要Software、Hardware的結合，才能完成本課程的藝術創作。
+我們需要Software、Hardware的結合，才能完成本課程的藝術創作。在開始創作前，我們需要下載軟件和準備好電子零件和工具。
 
-### Installation
+### 下載軟件
 首先我們先去Arduino官網下載Arduino IDE (建議使用Legacy IDE (1.8.X) 1.8.19版本): https://www.arduino.cc/en/software 
-然後我們再去Audacity官網下載最新版本的Audacity: https://www.audacityteam.org/download/
 
 ❓什麼是Arduino：
 
+Arduino是一款便捷靈活、方便上手的開源電子原型平台。包含硬件（各種型號的Arduino板）和軟件（ArduinoIDE）。由一個歐洲開發團隊於2005年冬季開發。
 
-### Knowing the Tool Kit
+然後我們再去Audacity官網下載最新版本的Audacity: https://www.audacityteam.org/download/
+
+❓什麼是Audacity：
+
+Audacity是一款跨平台的音频编辑软件，用於錄音和編輯音訊，是自由、開放原始碼的軟體。這個程式可用於剪輯音樂、合併音樂、錄音、去除人聲、去除雜音等等。
+
+### 認識硬件包
 我們團隊準備好了創作本作品所需要的工具和電子元件，我們一起來認識一下吧！
 
 <img src="images/toolkit.jpg" alt="toolkit" width="1920" height="1000">
@@ -53,6 +59,8 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Lesson 1
+下面我們開始真正的課程學習！
+
 在本課程中，你將學習到關於合成器（Synthesizer或Synth）的基礎知識，並使用Audacity設計自己的聲音。
 
 網絡App Web App - 合成器音樂 Synth Music -Ableton Learn Synth: https://learningsynths.ableton.com/en/playground
@@ -60,23 +68,32 @@
 Audacity : https://www.audacityteam.org/download/
 
 
+🎵
+🎵聲音創作完成後，記得將聲音儲存為wav格式，重命名為001（如果你有多於1首歌，那就按照順序重新命名：001、002、003......），並將文件儲存在一個新的文件夾裡，文件夾重命名為01。在工具包裡找到micro sd卡和讀卡器，將這個01文件夾儲存到卡裏。
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Lesson 2
+
+聲音製作完成後，我們開始製作繪畫互動介面：利用導電媒體（如導電墨水、導電膠帶），創作出觸控式畫作。
 
 電路連接手冊 Connection Manual：[connection manual.pdf](https://github.com/nixhehehe/testing1/files/10908029/connection.manual.pdf)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Lesson 3
-基本軟件 Basic software : 
-Arduino IDE (1.8.19) : https://www.arduino.cc/en/software
 
 組裝指南 Assembly Guide：
 [revised.guide.lesson3.pdf](https://github.com/nixhehehe/testing1/files/10908037/revised.guide.lesson3.pdf)
 
+現在我們打開已經下載好的Arduino IDE (1.8.19)軟件，為軟件安裝兩個編碼庫：SerialMP3、CapacitiveSensor
 
-如何加入編碼庫 How to add library: SerialMP3：
+
+如何加入編碼庫 How to add library? 
 [library.pdf](https://github.com/nixhehehe/testing1/files/10908040/library.pdf)
+
+接下來我們把鼠標放到下面的代碼欄，點擊右上角的複製按鈕，就可以直接複製下面的代碼啦，然後再把代碼粘貼到Arduino IDE內。（記得刪除Arduino IDE初始自帶的代碼）
+
 
 ```sh
 #include "SerialMP3Player.h"// 使用MP3版的編碼庫library

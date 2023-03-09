@@ -48,6 +48,8 @@
 ### Knowing the Tool Kit
 我們團隊準備好了創作本作品所需要的工具和電子元件，我們一起來認識一下吧！
 
+<img src="images/toolkit.jpg" alt="toolkit" width="1920" height="1100">
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Lesson 1

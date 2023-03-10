@@ -65,6 +65,8 @@ Audacity是一款跨平台的音频编辑软件，用於錄音和編輯音訊，
 
 1. 打開下面的網址，開始音樂創作： 網絡App Web App - 合成器音樂 Synth Music -Ableton Learn Synth: https://learningsynths.ableton.com/en/playground
 
+<img src="images/playground.jpg" alt="playground" >
+
 2. 將製作好的聲音下載到本地文件夾裡，再使用Audacity編輯音訊，如果你不清楚如何使用Audacity，可以先觀看下面的教學視頻：
 
 Audacity Tutorial For Beginners by Mike Russell
@@ -72,6 +74,9 @@ https://www.youtube.com/watch?v=vlzOb4OLj94
 
 
 3. 聲音創作完成後，記得將聲音儲存為wav格式，重命名為001（如果你有多於1首歌，那就按照順序重新命名：001、002、003......），並將文件儲存在一個新的文件夾裡，文件夾重命名為01。在工具包裡找到micro sd卡和讀卡器，將這個01文件夾儲存到卡裏。
+
+
+<img src="images/rename-file.jpg" alt="rename" >
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

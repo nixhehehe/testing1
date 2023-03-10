@@ -33,6 +33,8 @@
 2. 繪畫互動介面：利用導電媒體（如conductive ink），創作出觸控式畫作
 3. 結合以上技巧，創作出獨一無二的視覺＋聲音藝術作品，並探索利用導電媒體創作共融藝術的可能性。
 
+<img src="images/andiowork.jpg" alt="work" >
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 課前準備
@@ -148,6 +150,11 @@ if (measurement >= 400){//決定觸發起動歌曲的條件(值)
   delay(50);//迴圈再執行的中間位
 }
    ```
+
+<img src="images/studentwork.jpg" alt="work" >
+
+(學生作品展示)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

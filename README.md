@@ -85,6 +85,8 @@ https://www.youtube.com/watch?v=vlzOb4OLj94
 
 聲音製作完成後，我們開始製作繪畫互動介面：利用導電媒體（如導電墨水、導電膠帶），創作出觸控式畫作。
 
+<img src="images/draw.jpg" alt="draw" >
+
 電路連接手冊 Connection Manual：[connection manual.pdf](https://github.com/nixhehehe/testing1/files/10908029/connection.manual.pdf)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

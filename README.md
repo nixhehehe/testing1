@@ -101,13 +101,10 @@ https://www.youtube.com/watch?v=vlzOb4OLj94
 <img src="images/assembly1.jpg" alt="ass" >
 <img src="images/assembly2.jpg" alt="ass" >
 
-2. 現在我們打開已經下載好的Arduino IDE (1.8.19)軟件，為軟件安裝兩個編碼庫：SerialMP3、CapacitiveSensor
-
-
-如何加入編碼庫 How to add library? 
+2. 現在我們打開已經下載好的Arduino IDE (1.8.19)軟件，為軟件安裝兩個編碼庫：SerialMP3、CapacitiveSensor; 如何加入編碼庫 How to add library? 
 [library.pdf](https://github.com/nixhehehe/testing1/files/10908040/library.pdf)
 
-接下來我們把鼠標放到下面的代碼欄，點擊右上角的複製按鈕，就可以直接複製下面的代碼啦，然後再把代碼粘貼到Arduino IDE內。（記得刪除Arduino IDE初始自帶的代碼）
+3. 安裝完編碼庫後，我們把鼠標放到下面的代碼欄，點擊右上角的複製按鈕，就可以直接複製下面的代碼啦，然後再把代碼粘貼到Arduino IDE內。（記得刪除Arduino IDE初始自帶的代碼）
 
 
 ```sh

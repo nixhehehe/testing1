@@ -98,6 +98,9 @@ https://www.youtube.com/watch?v=vlzOb4OLj94
 1. 組裝指南PDF下載 Assembly Guide：
 [revised.guide.lesson3.pdf](https://github.com/nixhehehe/testing1/files/10908037/revised.guide.lesson3.pdf)
 
+<img src="images/assembly1.jpg" alt="ass" >
+<img src="images/assembly2.jpg" alt="ass" >
+
 2. 現在我們打開已經下載好的Arduino IDE (1.8.19)軟件，為軟件安裝兩個編碼庫：SerialMP3、CapacitiveSensor
 
 

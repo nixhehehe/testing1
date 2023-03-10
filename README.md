@@ -12,7 +12,7 @@
       <a href="#課程介紹"> 課程介紹</a>
     </li>
     <li>
-      <a href="#getting-started"> Getting Started</a>
+      <a href="#課前準備"> 課前準備</a>
       <ul>
         <li><a href="#下載軟件">下載軟件</a></li>
         <li><a href="#認識硬件包">認識硬件包</a></li>
@@ -35,17 +35,17 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Getting Started
+## 課前準備
 我們需要Software、Hardware的結合，才能完成本課程的藝術創作。在開始創作前，我們需要下載軟件和準備好電子零件和工具。
 
 ### 下載軟件
-首先我們先去Arduino官網下載Arduino IDE (建議使用Legacy IDE (1.8.X) 1.8.19版本): https://www.arduino.cc/en/software 
+1. 首先我們先去Arduino官網下載Arduino IDE (建議使用Legacy IDE (1.8.X) 1.8.19版本): https://www.arduino.cc/en/software 
 
 ❓什麼是Arduino：
 
 Arduino是一款便捷靈活、方便上手的開源電子原型平台。包含硬件（各種型號的Arduino板）和軟件（ArduinoIDE）。由一個歐洲開發團隊於2005年冬季開發。
 
-然後我們再去Audacity官網下載最新版本的Audacity: https://www.audacityteam.org/download/
+2. 下一步，我們去Audacity官網下載最新版本的Audacity: https://www.audacityteam.org/download/
 
 ❓什麼是Audacity：
 
@@ -63,13 +63,15 @@ Audacity是一款跨平台的音频编辑软件，用於錄音和編輯音訊，
 
 在本課程中，你將學習到關於合成器（Synthesizer或Synth）的基礎知識，並使用Audacity設計自己的聲音。
 
-網絡App Web App - 合成器音樂 Synth Music -Ableton Learn Synth: https://learningsynths.ableton.com/en/playground
+1. 打開下面的網址，開始音樂創作： 網絡App Web App - 合成器音樂 Synth Music -Ableton Learn Synth: https://learningsynths.ableton.com/en/playground
 
-Audacity : https://www.audacityteam.org/download/
+2. 將製作好的聲音下載到本地文件夾裡，再使用Audacity編輯音訊，如果你不清楚如何使用Audacity，可以先觀看下面的教學視頻：
+
+Audacity Tutorial For Beginners by Mike Russell
+https://www.youtube.com/watch?v=vlzOb4OLj94
 
 
-🎵
-🎵聲音創作完成後，記得將聲音儲存為wav格式，重命名為001（如果你有多於1首歌，那就按照順序重新命名：001、002、003......），並將文件儲存在一個新的文件夾裡，文件夾重命名為01。在工具包裡找到micro sd卡和讀卡器，將這個01文件夾儲存到卡裏。
+3. 聲音創作完成後，記得將聲音儲存為wav格式，重命名為001（如果你有多於1首歌，那就按照順序重新命名：001、002、003......），並將文件儲存在一個新的文件夾裡，文件夾重命名為01。在工具包裡找到micro sd卡和讀卡器，將這個01文件夾儲存到卡裏。
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

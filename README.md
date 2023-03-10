@@ -85,10 +85,7 @@ https://www.youtube.com/watch?v=vlzOb4OLj94
 
 1. 聲音製作完成後，我們開始製作繪畫互動介面：利用導電媒體（如導電墨水、導電膠帶），創作出觸控式畫作。
 
-2. 依照電路連接手冊連接電子元件：
-
-
-電路連接手冊PDF下載 Connection Manual：[connection manual.pdf](https://github.com/nixhehehe/testing1/files/10908029/connection.manual.pdf)
+2. 依照電路連接手冊連接電子元件, 電路連接手冊PDF下載 Connection Manual：[connection manual.pdf](https://github.com/nixhehehe/testing1/files/10908029/connection.manual.pdf)
 
 <img src="images/connection.jpg" alt="connection" >
 
@@ -98,10 +95,10 @@ https://www.youtube.com/watch?v=vlzOb4OLj94
 
 ## Lesson 3
 
-組裝指南 Assembly Guide：
+1. 組裝指南PDF下載 Assembly Guide：
 [revised.guide.lesson3.pdf](https://github.com/nixhehehe/testing1/files/10908037/revised.guide.lesson3.pdf)
 
-現在我們打開已經下載好的Arduino IDE (1.8.19)軟件，為軟件安裝兩個編碼庫：SerialMP3、CapacitiveSensor
+2. 現在我們打開已經下載好的Arduino IDE (1.8.19)軟件，為軟件安裝兩個編碼庫：SerialMP3、CapacitiveSensor
 
 
 如何加入編碼庫 How to add library? 

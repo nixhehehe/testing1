@@ -155,20 +155,35 @@ if (measurement >= 400){//決定觸發起動歌曲的條件(值)
 
 4. 在工具包裡找到USB線，讓一段連接Arduino Uno，另一端連接電腦的USB Type A端口，如果連接成果，你會看到自己的Arduino Uno已經通電，板上的LED燈會亮起來;
 5. 在Arduino IDE軟件中選擇合適的Board (Tools --> Board) 和Port (Tools --> Port)。本課程使用的board是Arduino Uno。
-6. 在Arduino IDE軟件界面的左上角點擊“Upload”和"Verify"，稍作等待後，如果你在屏幕下端看到“Done Compiling”的提示，說明程序已經成功載入。
-7. 把耳機或者喇叭（需要連接aux音頻線）連接到mp3板的3.5mm插口，然後觸摸你的畫作，就能夠聽到音樂了～
-8. <a href="#review">遇到問題？點擊這裡查看解決辦法</a>
 
-<img src="images/studentwork.jpg" alt="work" >
+<img src="images/board.jpg" alt="board" >
+7. 在Arduino IDE軟件界面的左上角點擊“verify",之後再"upload"即可; 稍作等待後，如果你在屏幕下端看到“Done Compiling”的提示，說明已經將程式燒錄到Arduino板子上。
 
-(學生作品展示)
+
+9. 把耳機或者喇叭（需要連接aux音頻線）連接到mp3板的3.5mm插口，然後觸摸你的畫作，就能夠聽到音樂了～
+10. <a href="#review">遇到問題？點擊這裡查看解決辦法</a>
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Review
 
+
+
+🤔️常見問題集：
+
+1. 遇到問題我們可以在網上尋找解決辦法，Arduino官網的help center列舉了各種常見的問題：https://support.arduino.cc/hc/en-us ，你也可以在官網先觀看tutorials，對軟件、硬件進行更深入的學習。
+2. 如果你是在運行Arduino IDE中遇到了問題，比如介面下方亮起紅色顯示error,你可以直接點擊“Copy error messages”，然後將error放到網上，就能找到解決辦法。有時候可能只是很小的問題，比如少打了一個標點符號或者打錯了一個字母、忘記安裝編碼庫等等。
+3. 如果程式在燒錄後沒有顯示紅色的error，但是依然無法聽到聲音，那可以考慮是否是音頻本身或者電路連接的問題。打開Arduino IDE中的Serial Monitor (Tools --> Serial Monitor)，手指捏住萬字夾，如果看到Serial Monitor中的數值發生變動（一般會大於400），說明有可能是音頻本身的問題，如果捏住萬字夾，Serial Monitor中的數值沒有變化，則需要重新檢查電路連接。
+4. 音頻問題：重新回顧 <a href="#lesson-1">Lesson 1</a></li> ， 確保按照每一個步驟將聲音儲存到了micro sd卡裡。你可以在電腦裡先聽一遍自己的聲音，確保聲音能夠正常播放的，micro sd卡需要用力按進mp3板的卡槽裡，燒錄過程中如果見到mp3板的led燈閃爍，說明燒錄成功。
+5. 電路連接問題：重新回顧 <a href="#lesson-2">Lesson 2</a></li>的電路連接手冊，確保每條線路都依照手冊所示緊密連接，其中電阻和杜邦線都需要用力按進麵包版的孔裡才能通電；萬字夾需要夾緊導電墨水，墨水的面積需要足夠大，而且確保2號RECIEVE PIN是連接到紙上的（4號是SEND PIN，不能連接到紙上）。
+6. 
+
+
+
 ## 聯繫我們
+
 如果你在學習本課程中遇到問題，歡迎聯繫我們！
 
 

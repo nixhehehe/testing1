@@ -103,6 +103,9 @@
 <img src="images/assembly1.jpg" alt="ass" >
 <img src="images/assembly2.jpg" alt="ass" >
 
+1.1 連接 USB-A 線到 Arduino
+
+
 2. 現在我們打開已經下載好的Arduino IDE (1.8.19)軟件，為軟件安裝兩個編碼庫：SerialMP3、CapacitiveSensor; 下載路徑：Sketch --> Include Library --> Manage Libraries 
 
 <img src="images/library.jpg" alt="lib" >

@@ -157,7 +157,9 @@ if (measurement >= 400){//決定觸發起動歌曲的條件(值)
    ```
 
 4. 在工具包裡找到USB線，讓一段連接Arduino Uno，另一端連接電腦的USB Type A端口，如果連接成果，你會看到自己的Arduino Uno已經通電，板上的LED燈會亮起來;
-
+<p>
+<img src="images/usba.jpg" alt="usba" width="400">
+</p>
 
 5. 在Arduino IDE軟件中選擇合適的Board (Tools --> Board) 和Port (Tools --> Port)。本課程使用的board是Arduino Uno。
 
@@ -166,12 +168,15 @@ if (measurement >= 400){//決定觸發起動歌曲的條件(值)
 
 
 7.把sd card 放進MP3板的SD卡卡位
+<p>
 <img src="images/sd card.jpg" alt="sdcard" width="400">
-
+</p>
 
 8. 把耳機或者喇叭（需要連接aux音頻線）連接到mp3板的3.5mm插口，然後觸摸你的畫作，就能夠聽到音樂了～
 (連接 3.5mm 線到 MP3 board)
-<img src="images/usba.jpg" alt="usba" >
+<p>
+<img src="images/audio port.jpg" alt="audio"  width="400">
+  </p>
 
 9. <a href="#常見問題集">遇到問題？點擊這裡查看解決辦法</a>
 

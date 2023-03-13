@@ -103,8 +103,7 @@
 <img src="images/assembly1.jpg" alt="ass" >
 <img src="images/assembly2.jpg" alt="ass" >
 
-2. 現在我們打開已經下載好的Arduino IDE (1.8.19)軟件，為軟件安裝兩個編碼庫：SerialMP3、CapacitiveSensor; 如何加入編碼庫 How to add library? 
-[library.pdf](https://github.com/nixhehehe/testing1/files/10908040/library.pdf)
+2. 現在我們打開已經下載好的Arduino IDE (1.8.19)軟件，為軟件安裝兩個編碼庫：SerialMP3、CapacitiveSensor; 下載路徑：Sketch --> Include Library --> Manage Libraries 
 
 <img src="images/library.jpg" alt="lib" >
 
@@ -153,6 +152,10 @@ if (measurement >= 400){//決定觸發起動歌曲的條件(值)
   delay(50);//迴圈再執行的中間位
 }
    ```
+
+4. 在工具包裡找到USB線，讓一段連接Arduino Uno，另一端連接電腦的USB Type A端口，如果連接成果，你會看到自己的Arduino Uno已經通電，板上的LED燈會亮起來;
+5. 在Arduino IDE軟件中選擇合適的Board (Tools --> Board) 和Port (Tools --> Port)。本課程使用的board是Arduino Uno。
+6. 在Arduino IDE軟件界面的左上角點擊“Upload”和"Verify"，稍作等待後，如果你在屏幕下端看到“Done Compiling”的提示，說明程序已經成功載入。觸摸你的畫作，就能夠聽到音樂了～
 
 <img src="images/studentwork.jpg" alt="work" >
 

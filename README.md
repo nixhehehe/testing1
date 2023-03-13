@@ -157,24 +157,23 @@ if (measurement >= 400){//決定觸發起動歌曲的條件(值)
    ```
 
 4. 在工具包裡找到USB線，讓一段連接Arduino Uno，另一端連接電腦的USB Type A端口，如果連接成果，你會看到自己的Arduino Uno已經通電，板上的LED燈會亮起來;
-    連接 USB-A 線到 Arduino
-<img src="images/usba.jpg" alt="usba" >
+
 
 5. 在Arduino IDE軟件中選擇合適的Board (Tools --> Board) 和Port (Tools --> Port)。本課程使用的board是Arduino Uno。
 
 <img src="images/board.jpg" alt="board" >
-7. 在Arduino IDE軟件界面的左上角點擊“verify",之後再"upload"即可; 稍作等待後，如果你在屏幕下端看到“Done Compiling”的提示，說明已經將程式燒錄到Arduino板子上。
+6. 在Arduino IDE軟件界面的左上角點擊“verify",之後再"upload"即可; 稍作等待後，如果你在屏幕下端看到“Done Compiling”的提示，說明已經將程式燒錄到Arduino板子上。
 
 
-8.把sd card 放進MP3板的SD卡卡位
-<img src="images/sdcard.jpg" alt="sdcard" >
+7.把sd card 放進MP3板的SD卡卡位
+<img src="images/sd card.jpg" alt="sdcard" width="400">
 
 
-9. 把耳機或者喇叭（需要連接aux音頻線）連接到mp3板的3.5mm插口，然後觸摸你的畫作，就能夠聽到音樂了～
+8. 把耳機或者喇叭（需要連接aux音頻線）連接到mp3板的3.5mm插口，然後觸摸你的畫作，就能夠聽到音樂了～
 (連接 3.5mm 線到 MP3 board)
 <img src="images/usba.jpg" alt="usba" >
 
-10. <a href="#常見問題集">遇到問題？點擊這裡查看解決辦法</a>
+9. <a href="#常見問題集">遇到問題？點擊這裡查看解決辦法</a>
 
 
 

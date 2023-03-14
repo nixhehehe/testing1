@@ -28,9 +28,9 @@
 
 ## 課程介紹
 🧠
-由聲音、新媒體藝術家 黎仲民Andio Lai 帶領同學學習不同 Software、Hardware的操作，將畫作變成電子樂器，從中學習到：
-1. 電子聲音創作平台 Ableton Learning Synths、Audacity和Arduino 軟硬件的運用
-2. 繪畫互動介面：利用導電媒體（如conductive ink），創作出觸控式畫作
+由聲音、新媒體藝術家 黎仲民Andio Lai 帶領學生學習不同 Software、Hardware的操作，將畫作變成電子樂器，從中學習到：
+1. 電子聲音創作平台 Ableton Learning Synths、Audacity和Arduino 軟硬件的運用；
+2. 繪畫互動介面：利用導電媒體（如conductive ink），創作出觸控式畫作；
 3. 結合以上技巧，創作出獨一無二的視覺＋聲音藝術作品，並探索利用導電媒體創作共融藝術的可能性。
 
 <img src="images/andiowork.jpg" alt="work" >
@@ -41,7 +41,7 @@
 我們需要Software、Hardware的結合，才能完成本課程的藝術創作。在開始創作前，我們需要下載軟件和準備好電子零件和工具。
 
 ### 下載軟件
-1. 首先我們先去Arduino官網下載Arduino IDE (建議使用Legacy IDE (1.8.X) 1.8.19版本): https://www.arduino.cc/en/software 
+1. 前往Arduino官網下載Arduino IDE (建議使用Legacy IDE (1.8.X) 1.8.19版本): https://www.arduino.cc/en/software 
 
    ❓什麼是Arduino：
 
@@ -51,7 +51,7 @@
 
     ❓什麼是Audacity：
 
-     Audacity是一款跨平台的音频编辑软件，用於錄音和編輯音訊，是自由、開放原始碼的軟體。這個程式可用於剪輯音樂、合併音樂、錄音、去除人聲、去除雜音等等。
+     Audacity是一款跨平台的音頻編輯軟件，用於錄音和編輯音訊，是自由、開放原始碼的軟體。這個程式可用於剪輯音樂、合併音樂、錄音、去除人聲、去除雜音等。
 
 ### 認識硬件包
 我們團隊準備好了創作本作品所需要的工具和電子元件，我們一起來認識一下吧！
@@ -75,7 +75,7 @@
    https://www.youtube.com/watch?v=vlzOb4OLj94
 
 
-3. 聲音創作完成後，記得將聲音儲存為wav格式，重命名為001（如果你有多於1首歌，那就按照順序重新命名：001、002、003......），並將文件儲存在一個新的文件夾裡，文件夾重命名為01。在工具包裡找到micro sd卡和讀卡器，將這個01文件夾儲存到卡裏。
+3. 聲音創作完成後，記得將聲音儲存為wav格式，改名為 001（如果你有多於1首歌，那就按照順序改名：001、002、003......），並將這些文件儲存在一個新的文件夾裡，文件夾的名字是 01。在工具包裡找到micro sd卡和讀卡器，將這個01文件夾儲存到micro sd卡裏。
 
 
 <img src="images/rename-file.jpg" alt="rename" >
@@ -190,7 +190,7 @@ if (measurement >= 400){//決定觸發起動歌曲的條件(值)
 
 🤔️
 
-1. 遇到問題我們可以在網上尋找解決辦法，Arduino官網的help center列舉了各種常見的問題：https://support.arduino.cc/hc/en-us ，你也可以在官網先觀看tutorials，對軟件、硬件進行更深入的學習。
+1. 遇到問題時，我們可以在網上尋找解決辦法，Arduino官網的help center列舉了各種常見的問題：https://support.arduino.cc/hc/en-us ，你也可以在官網先觀看tutorials，對軟件、硬件進行更深入的學習。
 2. 如果你是在運行Arduino IDE中遇到了問題，比如介面下方亮起紅色顯示error,你可以直接點擊“Copy error messages”，然後將error放到網上，就能找到解決辦法。有時候可能只是很小的問題，比如少打了一個標點符號或者打錯了一個字母、忘記安裝編碼庫等等。
 3. 如果程式在燒錄後沒有顯示紅色的error，但是依然無法聽到聲音，那可以考慮是否是音頻本身或者電路連接的問題。打開Arduino IDE中的Serial Monitor (Tools --> Serial Monitor)，手指捏住萬字夾，如果看到Serial Monitor中的數值發生變動（一般會大於400），說明有可能是音頻本身的問題，如果捏住萬字夾，Serial Monitor中的數值沒有變化，則需要重新檢查電路連接。
 4. 音頻問題：重新回顧 <a href="#lesson-1">Lesson 1</a></li> ， 確保按照每一個步驟將聲音儲存到了micro sd卡裡。你可以在電腦裡先聽一遍自己的聲音，確保聲音能夠正常播放的，micro sd卡需要用力按進mp3板的卡槽裡，燒錄過程中如果見到mp3板的led燈閃爍，說明燒錄成功。
@@ -204,5 +204,6 @@ if (measurement >= 400){//決定觸發起動歌曲的條件(值)
 ## 聯繫我們
 
 如果你在學習本課程中遇到問題，歡迎聯繫我們！
-
+電子郵件：xxxxxx
+電話：
 
